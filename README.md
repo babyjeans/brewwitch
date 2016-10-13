@@ -1,6 +1,6 @@
 # BrewWitch
 
-BrewWitch is an unfinished game written for love2d in Lua. It was originally going to be my entry for [GBJAM 5]() but 
+BrewWitch is an unfinished game written for love2d in Lua. It was originally going to be my entry for [GBJAM 5](itch.io/jam/gbjam-5) but 
 I wasn't able to finish it on time... so I decided to post it so maybe something useful can come of it!
 
 Currently, you can press the arrow keys, and 'X' to open the Brew Menu. Z / X and Arrows to manipulate the menu.
@@ -13,12 +13,11 @@ bue trivial to turn it back on.
 
 ## Credit
 
-### 3rd Party 'Libraries'
+### Things used
 
-[04b-03](http://www.dafont.com/04b-03.font)
-[30log](https://github.com/Yonaba/30log)
-[tween.lua](https://github.com/kikito/tween.lua)
-
+* [30log](https://github.com/Yonaba/30log)
+* [tween.lua](https://github.com/kikito/tween.lua)
+* [04b-03](http://www.dafont.com/04b-03.font)
 
 [Top]
 

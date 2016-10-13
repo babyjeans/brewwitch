@@ -11,6 +11,8 @@ I'm hoping maybe someone will get some use out of it as an example program / dem
 There's the capability for it to extend to multiple 'screens.' I disabled it while working on it for the jam, should
 bue trivial to turn it back on.
 
+![BrewWitch-Demo](https://zippy.gfycat.com/VioletBadBaleenwhale.gif)
+
 ## Credit
 
 ### Things used
